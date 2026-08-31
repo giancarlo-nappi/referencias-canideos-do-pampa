@@ -1,7 +1,7 @@
 # referencias-canideos-do-pampa
 Referências Bibliográficas - Padrão de atividade diária de _Lycalopex gymnocercus_ no Pampa em comparação com outros canídeos
 
-García-Solís, Fernando, et al. "Temporal interactions among carnivores in an anthropized landscape of the coastal mountain range in southern Chile." Folia Oecologica 52.1 (2025): 14-21.
+GARCIA-SOLIC, Fernando, et al. "Temporal interactions among carnivores in an anthropized landscape of the coastal mountain range in southern Chile." Folia Oecologica 52.1 (2025): 14-21.
 
 GOMIDE, Andressa Mendonça & LOBMANN, Daniel Atividade diária para carnívoros simpátricos no extremo sul do Brasil. 2017. Trabalho de Conclusão de Curso, Universidade Federal de Rio Grande - FURG.
 

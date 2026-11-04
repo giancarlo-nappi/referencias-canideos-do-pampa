@@ -4,15 +4,15 @@
 ## MATERIAL SUPLEMENTAR
 
 ### RECORDISTAS DE RECAPTURAS (Top 3):
-- Indivíduo 22 -> 11 Capturas
+- **Indivíduo 22** -> 11 Capturas
   
-- Indivíduo 18 -> 4 Capturas
+- **Indivíduo 18** -> 4 Capturas
   
-- Indivíduo 30 -> 4 Capturas
-- 
+- **Indivíduo 30** -> 4 Capturas
+  
 
 ### INDIVÍDUOS CAPTURADOS APENAS UMA VEZ:
-Dos 12 indivíduos capturados 4 foram capturados apenas uma vez
+Dos 12 indivíduos capturados 4 foram capturados **apenas uma vez**
 
 ### Coeficientes do Modelo Espacialmente Explícito Selecionado Modelo: D(~mata + mata² + lav + lav²) p0(~b) sig(~sex) | AIC: 441,70
 

@@ -1,16 +1,20 @@
-# JAM 2026
+# JAM 2026 - Aplicação de modelos espacialmente explícitos para estimar a densidade de _Lycalopex gymnocercus_ em agroecossistema do Pampa
 
-# MATERIAL SUPLEMENTAR
 
-RECORDISTAS DE RECAPTURAS (Top 3):
-Indivíduo 22 -> 11 Capturas
-Indivíduo 18 -> 4 Capturas
-Indivíduo 30 -> 4 Capturas
+## MATERIAL SUPLEMENTAR
 
-INDIVÍDUOS CAPTURADOS APENAS UMA VEZ:
+### RECORDISTAS DE RECAPTURAS (Top 3):
+- Indivíduo 22 -> 11 Capturas
+  
+- Indivíduo 18 -> 4 Capturas
+  
+- Indivíduo 30 -> 4 Capturas
+- 
+
+### INDIVÍDUOS CAPTURADOS APENAS UMA VEZ:
 Dos 12 indivíduos capturados 4 foram capturados apenas uma vez
 
-# Coeficientes do Modelo Espacialmente Explícito Selecionado Modelo: D(~mata + mata² + lav + lav²) p0(~b) sig(~sex) | AIC: 441,70
+### Coeficientes do Modelo Espacialmente Explícito Selecionado Modelo: D(~mata + mata² + lav + lav²) p0(~b) sig(~sex) | AIC: 441,70
 
 | Parâmetro   | Significado Biológico                | Estimativa        | Erro Padrão (SE) | Valor z | Valor de p |
 | ----------- | ------------------------------------ | ----------------- | ---------------- | ------- | ---------- |
@@ -25,7 +29,7 @@ Dos 12 indivíduos capturados 4 foram capturados apenas uma vez
 | Beta lav^2  | Distância da Lavoura (Quadrático)    | 4,443             | 1,364            | 3,257   | 0,001      |
 | Psi         | Constante de Ocupação                | -1,198            | 0,670            | -1,788  | 0,074      |
 
-# Referências Bibliográficas - Aplicação de modelos espacialmente explícitos para estimar a densidade de _Lycalopex gymnocercus_ em agroecossistema do Pampa
+# REFERÊNCIAS BIBLIOGRÁFICAS
 
 DURBACH, I. et al. That’s not the Mona Lisa! How to interpret spatial capture-recapture density surface estimates. Biometrics, [s. l.], v. 80, n. 1, p. ujad020, 2024.
 

@@ -1,6 +1,31 @@
 # JAM 2026
 
-Referências Bibliográficas - Aplicação de modelos espacialmente explícitos para estimar a densidade de Lycalopex gymnocercus em agroecossistema do Pampa
+# MATERIAL SUPLEMENTAR
+
+RECORDISTAS DE RECAPTURAS (Top 3):
+Indivíduo 22 -> 11 Capturas
+Indivíduo 18 -> 4 Capturas
+Indivíduo 30 -> 4 Capturas
+
+INDIVÍDUOS CAPTURADOS APENAS UMA VEZ:
+Dos 12 indivíduos capturados 4 foram capturados apenas uma vez
+
+# Coeficientes do Modelo Espacialmente Explícito Selecionado Modelo: D(~mata + mata² + lav + lav²) p0(~b) sig(~sex) | AIC: 441,70
+
+| Parâmetro   | Significado Biológico                | Estimativa        | Erro Padrão (SE) | Valor z | Valor de p |
+| ----------- | ------------------------------------ | ----------------- | ---------------- | ------- | ---------- |
+| p0          | Intercepto da Detecção Básica        | -3,832            | 0,406            | -9,439  | < 0,001    |
+| b           | Efeito Comportamental (Recaptura)    | 0,972             | 0,500            | 1,943   | 0,052      |
+| sigma       | Intercepto do Movimento (Fêmeas)     | 6,074             | 0,128            | 47,344  | < 0,001    |
+| sigma sex   | Efeito do Sexo no Movimento (Machos) | 0,330             | 0,177            | 1,866   | 0,062      |
+| d0          | Intercepto da Densidade Base         | -13,428           | 3,142            | -4,274  | < 0,001    |
+| Beta mata   | Distância da Mata (Linear)           | 4,801             | 1,348            | 3,563   | < 0,001    |
+| Beta mata^2 | Distância da Mata (Quadrático)       | -2,155            | 0,883            | -2,440  | 0,015      |
+| Beta lav    | Distância da Lavoura (Linear)        | -2,285            | 0,974            | -2,346  | 0,019      |
+| Beta lav^2  | Distância da Lavoura (Quadrático)    | 4,443             | 1,364            | 3,257   | 0,001      |
+| Psi         | Constante de Ocupação                | -1,198            | 0,670            | -1,788  | 0,074      |
+
+# Referências Bibliográficas - Aplicação de modelos espacialmente explícitos para estimar a densidade de _Lycalopex gymnocercus_ em agroecossistema do Pampa
 
 DURBACH, I. et al. That’s not the Mona Lisa! How to interpret spatial capture-recapture density surface estimates. Biometrics, [s. l.], v. 80, n. 1, p. ujad020, 2024.
 

@@ -3,6 +3,13 @@
 
 ## MATERIAL SUPLEMENTAR
 
+### Densidades relatadas em outros estudos
+<img width="2480" height="3507" alt="Densidades encontradas" src="https://github.com/user-attachments/assets/5f9e9893-8314-48d5-95ec-59eb0a0c0dcd" />
+
+### Tomahawks por Campanha
+<img width="3507" height="2480" alt="Armadilhas Tomahawk - BA2" src="https://github.com/user-attachments/assets/782cfc77-3f9d-4317-81eb-b93e7cbec2c9" />
+
+
 ### RECORDISTAS DE RECAPTURAS (Top 3):
 - **Indivíduo 22** -> 11 Capturas
   
